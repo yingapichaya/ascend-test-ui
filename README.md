@@ -1,13 +1,17 @@
 # Automation Test
 
 ## Prerequisite
-ChromeDriver
-Python 3.8.9
+
+1. ChromeDriver
+
+2. Python 3.8.9
 
 ## Dependencies
 
+Install python dependencies
+
 ```pip3 install -r requirements.txt```
 
-### Run Test
+## Run Test
 
-```robot file.robot```
+```robot login.robot```
