@@ -14,4 +14,4 @@ Install python dependencies
 
 ## Run Test
 
-```robot login.robot```
+```robot login/login.robot```
